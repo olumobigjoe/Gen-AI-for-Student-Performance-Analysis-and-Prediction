@@ -80,4 +80,5 @@ This project analyzes GLT 302 test results from Microbiology students and builds
 | Score (%) | Float | Test score percentage |
 | Result | Categorical | PASS/FAIL |
 
-### Performance Band Distribution
+
+
