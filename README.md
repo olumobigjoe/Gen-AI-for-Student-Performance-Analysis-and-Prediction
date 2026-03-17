@@ -29,7 +29,7 @@ A machine learning-powered system for predicting student performance bands based
 This project analyzes GLT 302 test results from Microbiology students and builds a predictive model to classify student performance into seven bands (Excellent, Good, Average, Below Average, Poor, Very Poor, Critical). The system helps educators identify at-risk students early and provide targeted interventions.
 
 ### Key Highlights
-
+                                                      
 - **82.41% failure rate** in the original dataset
 - **Random Forest Classifier** for multi-class prediction
 - **Interactive Streamlit dashboard** for real-time predictions
